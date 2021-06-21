@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @narofourty
-- 👀 I’m interested in coding,football,videogames and so on
+- 👀 I’m interested in coding,football,videogames and many other things
 - 🌱 I’m currently learning java and spring secrets
 - 💞️ I’m looking to collaborate on make the world a better place
 - 📫 How to reach me @gemnaro telegram
